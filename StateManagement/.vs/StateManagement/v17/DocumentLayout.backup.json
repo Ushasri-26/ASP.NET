@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\StateManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\firstsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\firstsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\thirdsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\thirdsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\thirdsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\thirdsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\secondsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\secondsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\secondsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\secondsession.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\firstsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\firstsession.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\secondsession.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\secondsession.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\querystringsource.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\querystringsource.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\querystringsource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\querystringsource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\querystringdestination.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\querystringdestination.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\cookiedestination.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\cookiedestination.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\cookiesource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\cookiesource.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\querystringdestination.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\querystringdestination.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\viewstate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\testform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\testform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\testform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\testform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\hiddenform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\hiddenform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\cookiedestination.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\cookiedestination.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\cookiesource.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\cookiesource.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\hiddenform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\hiddenform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|c:\\csharp\\statemanagement\\statemanagement\\viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F95A23D-211A-4C5D-93E9-CBD07FFD7241}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\viewstate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstSession.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\FirstSession.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\FirstSession.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\FirstSession.aspx",
+              "RelativeToolTip": "StateManagement\\FirstSession.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T14:48:28.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecondSession.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\SecondSession.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx.cs",
+              "RelativeToolTip": "StateManagement\\SecondSession.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:57:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdSession.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\ThirdSession.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\ThirdSession.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\ThirdSession.aspx",
+              "RelativeToolTip": "StateManagement\\ThirdSession.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T13:01:01.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondSession.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\SecondSession.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx",
+              "RelativeToolTip": "StateManagement\\SecondSession.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T14:27:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecondSession.aspx.designer.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx.designer.cs",
+              "RelativeDocumentMoniker": "StateManagement\\SecondSession.aspx.designer.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\SecondSession.aspx.designer.cs",
+              "RelativeToolTip": "StateManagement\\SecondSession.aspx.designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:37:04.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstSession.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\FirstSession.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\FirstSession.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\FirstSession.aspx.cs",
+              "RelativeToolTip": "StateManagement\\FirstSession.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:50:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThirdSession.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\ThirdSession.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\ThirdSession.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\ThirdSession.aspx.cs",
+              "RelativeToolTip": "StateManagement\\ThirdSession.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:28:47.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueryStringSource.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringSource.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\QueryStringSource.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringSource.aspx.cs",
+              "RelativeToolTip": "StateManagement\\QueryStringSource.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:17:56.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QueryStringSource.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringSource.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\QueryStringSource.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringSource.aspx",
+              "RelativeToolTip": "StateManagement\\QueryStringSource.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T12:14:59.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CookieSource.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\CookieSource.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\CookieSource.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\CookieSource.aspx",
+              "RelativeToolTip": "StateManagement\\CookieSource.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T11:06:18.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryStringDestination.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringDestination.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\QueryStringDestination.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringDestination.aspx",
+              "RelativeToolTip": "StateManagement\\QueryStringDestination.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T12:21:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueryStringDestination.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringDestination.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\QueryStringDestination.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\QueryStringDestination.aspx.cs",
+              "RelativeToolTip": "StateManagement\\QueryStringDestination.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T12:24:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CookieDestination.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\CookieDestination.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\CookieDestination.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\CookieDestination.aspx",
+              "RelativeToolTip": "StateManagement\\CookieDestination.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T11:07:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewState.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\ViewState.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\ViewState.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\ViewState.aspx",
+              "RelativeToolTip": "StateManagement\\ViewState.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T10:43:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HiddenForm.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\HiddenForm.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\HiddenForm.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\HiddenForm.aspx",
+              "RelativeToolTip": "StateManagement\\HiddenForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T11:04:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\Web.config",
+              "RelativeDocumentMoniker": "StateManagement\\Web.config",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\Web.config",
+              "RelativeToolTip": "StateManagement\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-23T10:50:54.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HiddenForm.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\HiddenForm.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\HiddenForm.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\HiddenForm.aspx.cs",
+              "RelativeToolTip": "StateManagement\\HiddenForm.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:05:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestForm.aspx",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\TestForm.aspx",
+              "RelativeDocumentMoniker": "StateManagement\\TestForm.aspx",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\TestForm.aspx",
+              "RelativeToolTip": "StateManagement\\TestForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-23T10:39:48.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CookieDestination.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\CookieDestination.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\CookieDestination.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\CookieDestination.aspx.cs",
+              "RelativeToolTip": "StateManagement\\CookieDestination.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:08:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestForm.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\TestForm.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\TestForm.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\TestForm.aspx.cs",
+              "RelativeToolTip": "StateManagement\\TestForm.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:40:22.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CookieSource.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\CookieSource.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\CookieSource.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\CookieSource.aspx.cs",
+              "RelativeToolTip": "StateManagement\\CookieSource.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:06:41.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewState.aspx.cs",
+              "DocumentMoniker": "C:\\CSharp\\StateManagement\\StateManagement\\ViewState.aspx.cs",
+              "RelativeDocumentMoniker": "StateManagement\\ViewState.aspx.cs",
+              "ToolTip": "C:\\CSharp\\StateManagement\\StateManagement\\ViewState.aspx.cs",
+              "RelativeToolTip": "StateManagement\\ViewState.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:43:58.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
