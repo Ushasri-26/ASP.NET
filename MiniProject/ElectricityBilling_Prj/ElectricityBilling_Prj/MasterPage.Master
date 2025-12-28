@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="ElectricityBilling_Prj.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Electricity Board Billing System</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="background-color:#003366; color:white; padding:10px;">
+            <h2>Electricity Board Billing System</h2>
+        </div>
+        <div style="padding:10px; background-color:#eeeeee;">
+        <asp:Button ID="btnAddBill" runat="server" Text="Add Bill" OnClick="btnAddBill_Click" />
+        &nbsp;&nbsp;
+        <asp:Button ID="btnViewBills" runat="server" Text="View Bills" OnClick="btnViewBills_Click" />
+        &nbsp;&nbsp;
+        <asp:Button ID="btnLogout" runat="server" Text="Logout" OnClick="btnLogout_Click" />
+        </div>
+        <div style="padding:20px;">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div style="background-color:#003366; color:white;
+             padding:10px; text-align:center;">
+            © Electricity Board
+        </div>
+    </form>
+</body>
+</html>
