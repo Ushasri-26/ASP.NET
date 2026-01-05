@@ -51,6 +51,15 @@ namespace ElectricityBilling_Prj
         protected global::System.Web.UI.WebControls.Button btnViewBills;
 
         /// <summary>
+        /// btnSearchBill control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSearchBill;
+
+        /// <summary>
         /// btnLogout control.
         /// </summary>
         /// <remarks>

@@ -27,5 +27,10 @@ namespace ElectricityBilling_Prj
             Session.Clear();
             Response.Redirect("LoginForm.aspx");
         }
+
+        protected void btnSearchBill_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("SearchBill.aspx");
+        }
     }
 }

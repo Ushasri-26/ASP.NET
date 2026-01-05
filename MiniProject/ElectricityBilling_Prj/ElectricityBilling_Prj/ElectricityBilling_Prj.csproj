@@ -71,6 +71,7 @@
     <Content Include="LoginForm.aspx" />
     <Content Include="ViewBills.aspx" />
     <Content Include="Web.config" />
+    <Content Include="SearchBill.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Billing.aspx.cs">
@@ -105,6 +106,13 @@
     </Compile>
     <Compile Include="ViewBills.aspx.designer.cs">
       <DependentUpon>ViewBills.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBill.aspx.cs">
+      <DependentUpon>SearchBill.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchBill.aspx.designer.cs">
+      <DependentUpon>SearchBill.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

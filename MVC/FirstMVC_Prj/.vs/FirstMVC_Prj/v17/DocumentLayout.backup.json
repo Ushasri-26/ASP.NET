@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\demo\\test_tempdata_across_controllers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\demo\\test_tempdata_across_controllers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\demo\\checktempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\demo\\checktempdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\mobiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\mobiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\colors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\colors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\firsttemprequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\firsttemprequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\secondtemprequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\secondtemprequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\testdatatransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\testdatatransfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\data\\officerules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\data\\officerules.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\hr\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\hr\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|c:\\asp.net\\mvc\\firstmvc_prj\\firstmvc_prj\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\hr\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\hr\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\demo\\viewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\demo\\viewmethod.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|C:\\ASP.NET\\MVC\\FirstMVC_Prj\\firstmvc_prj\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AE4D670-DA9B-4212-B3C3-435FE70AF67F}|FirstMVC_Prj\\FirstMVC_Prj.csproj|solutionrelative:firstmvc_prj\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test_TempData_across_controllers.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\Test_TempData_across_controllers.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Demo\\Test_TempData_across_controllers.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\Test_TempData_across_controllers.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Demo\\Test_TempData_across_controllers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:39:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA+wEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:17:19.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckTempData.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\CheckTempData.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Demo\\CheckTempData.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\CheckTempData.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Demo\\CheckTempData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:53:42.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mobiles.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Mobiles.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\Mobiles.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Mobiles.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\Mobiles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T09:52:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colors.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Colors.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\Colors.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Colors.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\Colors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T09:49:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\DataController.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T06:32:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T06:35:40Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstTempRequest.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\FirstTempRequest.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\FirstTempRequest.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\FirstTempRequest.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\FirstTempRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:18:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecondTempRequest.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\SecondTempRequest.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\SecondTempRequest.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\SecondTempRequest.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\SecondTempRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:25:53.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestDataTransfer.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\TestDataTransfer.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\TestDataTransfer.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\TestDataTransfer.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\TestDataTransfer.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T06:47:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OfficeRules.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\OfficeRules.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Data\\OfficeRules.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Data\\OfficeRules.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Data\\OfficeRules.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T07:00:28.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T10:35:39.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Controllers\\HRController.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\HRController.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Controllers\\HRController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:49:52.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\Test.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\HR\\Test.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\Test.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\HR\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T05:19:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:00:17.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentList.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\DepartmentList.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\HR\\DepartmentList.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\DepartmentList.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\HR\\DepartmentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T12:48:52.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:43:09.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\HR\\EmployeeList.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\HR\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T12:34:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DisplayEmployee.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\DisplayEmployee.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\HR\\DisplayEmployee.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\HR\\DisplayEmployee.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\HR\\DisplayEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T11:53:42.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Models\\Department.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Models\\Department.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:48:39.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Models\\Employee.cs",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Models\\Employee.cs",
+              "RelativeToolTip": "FirstMVC_Prj\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:33:35.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewMethod.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\ViewMethod.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Demo\\ViewMethod.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Demo\\ViewMethod.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Demo\\ViewMethod.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T10:45:50.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T10:35:45.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T10:35:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC_Prj\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\ASP.NET\\MVC\\FirstMVC_Prj\\FirstMVC_Prj\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FirstMVC_Prj\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-31T10:04:28.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

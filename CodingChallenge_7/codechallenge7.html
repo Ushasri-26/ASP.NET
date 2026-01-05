@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code Challenge 7</title>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <style>
+            body{
+                font-family: Arial;
+                margin: 20px;
+            }
+            table {
+                border-collapse: collapse;
+                margin-top: 10px;
+            }
+            table,th,td {
+                border: 1px solid black;
+                padding: 8px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Coding Assessment</h2>
+        <hr>
+        <h3>1.Multiplication and Division</h3>
+        Number 1: <input type="number" id="num1"><br><br>
+        Number 2: <input type="number" id="num2"><br><br>
+        <button onclick="multiply()">Multiply</button>
+        <button onclick="divide()">Divide</button>
+        <p id="result"></p>
+        <script>
+        function multiply() {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+            document.getElementById("result").innerHTML = "The Result is: " + (a * b);
+        }
+        function divide() {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+            document.getElementById("result").innerHTML = "The Result is: " + (a/b);
+        }
+        </script>
+        <hr>
+        <h2>2.Odd or Even</h2>
+        <div id="OddEven"></div>
+        <script>
+            var output = "";
+            for(var i=0;i<=15;i++) {
+                if(i%2==0) {
+                    output+=i+"is even<br>";
+                }
+                else {
+                    output+=i+"is odd<br>";
+                }
+            }
+            document.getElementById("OddEven").innerHTML=output;
+        </script>
+        <hr>
+        <h3>3.Button Click Event</h3>
+        <button id="clickBtn">Click Me</button>
+        <script>
+            document.getElementById("clickBtn").addEventListener("click",function() {
+                console.log("Button was clicked!");
+                alert("Button was clicked!");
+            });
+        </script>
+        <hr> 
+        <h3>4.Hide Odd Table Rows</h3>
+        <table>
+            <tr>
+                <th>Id</th>
+                <th>Colors</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <th>Green</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>Black</th>
+            </tr>
+            <tr>
+                <th>3</th>
+                <th>Pink</th>
+            </tr>
+            <tr>
+                <th>4</th>
+                <th>Red</th>
+            </tr>
+            <tr>
+                <th>5</th>
+                <th>White</th>
+            </tr>
+        </table>
+        <button id="hideOdd">Hide Odd Rows</button>
+        <script>
+            $("#hideOdd").click(function(){
+                $("tr:odd").hide();
+            });
+        </script>
+        <hr>
+        <h3>5. h1 Elements inside div</h3>
+        <div>
+            <h1>Hello...!!</h1>
+            <h1>Welcome to Web Technologies..</h1>
+            <h2>This is Heading 2</h2>
+            <h3>This is Heading 3</h3>
+        </div>
+        <script>
+            $("div>h1").css("background-color","pink");
+        </script>
+        <hr>
+        <h3>6.Get Single element from List</h3>
+        <ul>
+            <li>Usha</li>
+            <li>Monika</li>
+            <li>Sravani</li>
+            <li>Bhavya</li>
+            <li>Poojitha</li>
+        </ul>
+        <button id="getSingle">Get Fourth Element</button>
+        <script>
+            $("#getSingle").click(function () {
+                alert($("li").eq(3).text());
+            });
+        </script>
+        <hr>
+        <h3>7. Add index to List items</h3>
+        <ul id="Names">
+            <li>Usha</li>
+            <li>Monika</li>
+            <li>Priya</li>
+            <li>Sravani</li>
+            <li>Bhavya</li>
+        </ul>
+        <script>
+            $("#Names li").each(function(index) {
+                $(this).prepend(index + " ");
+            });
+        </script>
+        <hr>
+        <h3>8. Append</h3>
+        <input type="text" id="textInput" placeholder="Type something">
+        <script>
+            $("#textInput").change(function(){
+                var value = $(this).val();
+                $("body").append("<p>Input value changed to: " + value + "</p>");
+            });
+        </script>
+    </body>
+</html>

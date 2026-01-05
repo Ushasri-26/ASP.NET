@@ -11,5 +11,14 @@ namespace ElectricityBilling_Prj.Models
         public string ConsumerName { get; set; }
         public int UnitsConsumed { get; set; }
         public double BillAmount { get; set; }
+        public DateTime BillDate { get; set; }
+        public int BillMonth
+        {
+            get { return BillDate.Month; }
+        }
+        public int BillYear
+        {
+            get { return BillDate.Year; }
+        }
     }
 }

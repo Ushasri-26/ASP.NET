@@ -42,6 +42,15 @@ namespace ElectricityBilling_Prj
         protected global::System.Web.UI.WebControls.TextBox txtUnits;
 
         /// <summary>
+        /// txtBillDate control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtBillDate;
+
+        /// <summary>
         /// btnCalculate control.
         /// </summary>
         /// <remarks>
@@ -49,6 +58,15 @@ namespace ElectricityBilling_Prj
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnCalculate;
+
+        /// <summary>
+        /// lblLastMonthBill control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblLastMonthBill;
 
         /// <summary>
         /// lblResult control.

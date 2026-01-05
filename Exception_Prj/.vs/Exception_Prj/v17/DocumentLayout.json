@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\Exception_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|C:\\ASP.NET\\Exception_Prj\\exception_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\serverr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\serverr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\defaulterr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|c:\\asp.net\\exception_prj\\exception_prj\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\pagenotfound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|C:\\ASP.NET\\Exception_Prj\\exception_prj\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7AFB03B6-5610-4B0D-9C6A-36DF8E65E94C}|Exception_Prj\\Exception_Prj.csproj|solutionrelative:exception_prj\\employee.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Web.config",
+              "RelativeDocumentMoniker": "Exception_Prj\\Web.config",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Web.config",
+              "RelativeToolTip": "Exception_Prj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-30T05:56:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbError.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\DbError.aspx.cs",
+              "RelativeDocumentMoniker": "Exception_Prj\\DbError.aspx.cs",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\DbError.aspx.cs",
+              "RelativeToolTip": "Exception_Prj\\DbError.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:51:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\WebForm1.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\WebForm1.aspx",
+              "RelativeToolTip": "Exception_Prj\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T11:10:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbError.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\DbError.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\DbError.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\DbError.aspx",
+              "RelativeToolTip": "Exception_Prj\\DbError.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T05:48:44.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Exception_Prj\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Exception_Prj\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:19:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionLoggingDb.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\ExceptionLoggingDb.cs",
+              "RelativeDocumentMoniker": "Exception_Prj\\ExceptionLoggingDb.cs",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\ExceptionLoggingDb.cs",
+              "RelativeToolTip": "Exception_Prj\\ExceptionLoggingDb.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:28:55.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Exception_Prj\\Global.asax.cs",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Global.asax.cs",
+              "RelativeToolTip": "Exception_Prj\\Global.asax.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T04:55:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "apperr.html",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\apperr.html",
+              "RelativeDocumentMoniker": "Exception_Prj\\apperr.html",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\apperr.html",
+              "RelativeToolTip": "Exception_Prj\\apperr.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-30T04:41:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "err.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\err.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\err.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\err.aspx",
+              "RelativeToolTip": "Exception_Prj\\err.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:33:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testerr.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\testerr.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\testerr.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\testerr.aspx",
+              "RelativeToolTip": "Exception_Prj\\testerr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:34:02.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Serverr.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Serverr.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\Serverr.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Serverr.aspx",
+              "RelativeToolTip": "Exception_Prj\\Serverr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:34:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "defaulterr.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\defaulterr.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\defaulterr.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\defaulterr.aspx",
+              "RelativeToolTip": "Exception_Prj\\defaulterr.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:33:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PageNotFound.aspx",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\PageNotFound.aspx",
+              "RelativeDocumentMoniker": "Exception_Prj\\PageNotFound.aspx",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\PageNotFound.aspx",
+              "RelativeToolTip": "Exception_Prj\\PageNotFound.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T04:34:33.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.xml",
+              "DocumentMoniker": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Employee.xml",
+              "RelativeDocumentMoniker": "Exception_Prj\\Employee.xml",
+              "ToolTip": "C:\\ASP.NET\\Exception_Prj\\Exception_Prj\\Employee.xml",
+              "RelativeToolTip": "Exception_Prj\\Employee.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-29T11:13:31.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
