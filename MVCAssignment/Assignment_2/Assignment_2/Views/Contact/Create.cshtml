@@ -1,0 +1,38 @@
+﻿@model Assignment_2.Models.Contact
+
+<h2>Create Contact</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        First Name:
+        <br />
+        @Html.TextBoxFor(m => m.FirstName)
+    </div>
+
+    <br />
+
+    <div>
+        Last Name:
+        <br />
+        @Html.TextBoxFor(m => m.LastName)
+    </div>
+
+    <br />
+
+    <div>
+        Email:
+        <br />
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+
+    <br />
+    <br />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+
+    <br />
+    <br />
+
+    @Html.ActionLink("Back to List", "Index")
+}
