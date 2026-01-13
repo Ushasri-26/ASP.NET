@@ -1,0 +1,32 @@
+﻿@model CodeFirstApproach.Models.Movie
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add Movie</h2>
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Movie Name</td>
+            <td>@Html.TextBoxFor(m => m.MovieName)</td>
+        </tr>
+
+        <tr>
+            <td>Director Name</td>
+            <td>@Html.TextBoxFor(m => m.DirectorName)</td>
+        </tr>
+
+        <tr>
+            <td>Date Of Release</td>
+            <td>@Html.TextBoxFor(m => m.DateOfRelease, new { type = "date" })</td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Save" />
+                @Html.ActionLink("Back to List", "Index")
+            </td>
+        </tr>
+    </table>
+}

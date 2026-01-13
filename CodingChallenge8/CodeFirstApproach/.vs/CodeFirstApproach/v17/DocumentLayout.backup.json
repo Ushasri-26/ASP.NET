@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\models\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|c:\\asp.net\\codingchallenge8\\codefirstapproach\\codefirstapproach\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF0E03-B43D-455C-8059-386C19AE2851}|CodeFirstApproach\\CodeFirstApproach.csproj|solutionrelative:codefirstapproach\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "CodeFirstApproach\\Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:50:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "CodeFirstApproach\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:50:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CodeFirstApproach\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:59:24.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:14:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:04:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:06:11.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\MoviesByYear.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:05:23.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstApproach\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:24:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Web.config",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Web.config",
+              "RelativeToolTip": "CodeFirstApproach\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T04:47:20.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesDbContext.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Models\\MoviesDbContext.cs",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Models\\MoviesDbContext.cs",
+              "RelativeToolTip": "CodeFirstApproach\\Models\\MoviesDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:45:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproach\\Models\\Movie.cs",
+              "ToolTip": "C:\\ASP.NET\\CodingChallenge8\\CodeFirstApproach\\CodeFirstApproach\\Models\\Movie.cs",
+              "RelativeToolTip": "CodeFirstApproach\\Models\\Movie.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:43:15.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
