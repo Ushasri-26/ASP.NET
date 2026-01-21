@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|c:\\asp.net\\webapi assignment\\ordersmvcclient\\ordersmvcclient\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|solutionrelative:ordersmvcclient\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|c:\\asp.net\\webapi assignment\\ordersmvcclient\\ordersmvcclient\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|solutionrelative:ordersmvcclient\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|c:\\asp.net\\webapi assignment\\ordersmvcclient\\ordersmvcclient\\models\\employeeorderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5C999E-2BD2-4D49-9BAD-ECF8030F22E3}|OrdersMVCClient\\OrdersMVCClient.csproj|solutionrelative:ordersmvcclient\\models\\employeeorderview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OrdersMVCClient\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OrdersMVCClient\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T06:40:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersMVCClient\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersMVCClient\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:39:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeOrderView.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Models\\EmployeeOrderView.cs",
+              "RelativeDocumentMoniker": "OrdersMVCClient\\Models\\EmployeeOrderView.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\OrdersMVCClient\\OrdersMVCClient\\Models\\EmployeeOrderView.cs",
+              "RelativeToolTip": "OrdersMVCClient\\Models\\EmployeeOrderView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:38:50.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

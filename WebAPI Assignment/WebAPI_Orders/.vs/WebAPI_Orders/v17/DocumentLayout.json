@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\webapi_orders\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|c:\\asp.net\\webapi assignment\\webapi_orders\\webapi_orders\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|c:\\asp.net\\webapi assignment\\webapi_orders\\webapi_orders\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\webapi_orders\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\webapi_orders\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\webapi_orders\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{73E56475-74FD-44DB-A130-F24A3F79FC1D}|WebAPI_Orders\\WebAPI_Orders.csproj|solutionrelative:webapi_orders\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebAPI_Orders\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:52:34.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "WebAPI_Orders\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:18:16.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\Models\\Model1.edmx",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebAPI_Orders\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-21T06:17:29.35Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebAPI_Orders\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:03:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\Model1.Context.cs",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Model1.Context.cs",
+              "RelativeToolTip": "WebAPI_Orders\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:49:54.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebAPI_Orders\\Model1.edmx",
+              "ToolTip": "C:\\ASP.NET\\WebAPI Assignment\\WebAPI_Orders\\WebAPI_Orders\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebAPI_Orders\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-21T04:49:15.787Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
